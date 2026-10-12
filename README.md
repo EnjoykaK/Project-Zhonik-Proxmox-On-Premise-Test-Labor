@@ -1,6 +1,6 @@
 # Project Zhonik | Proxmox On-Premise-Test-Labor
 
-> **IHK-Projektarbeit (Fachinformatiker für Systemintegration)**  
+> **Projektarbeit (Fachinformatiker für Systemintegration)**  
 > **Thema:** Konzeption und Implementierung einer isolierten Entwicklungs- und Monitoring-Umgebung auf Basis von Proxmox VE.
 
 
